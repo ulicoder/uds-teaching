@@ -1,0 +1,4 @@
+Linguistics is the scientific study of language.
+Linguistics is based on theoretical as well as descriptive study of language and is also interlinked with the applied fields of language studies and language learning, which entails the study of specific languages.
+Before the 20th century, linguistics evolved in conjunction with literary study and did not exclusively employ scientific methods.
+Traditional areas of linguistic analysis correspond to syntax (rules governing the structure of sentences), semantics (meaning), morphology (structure of words), phonetics (speech sounds and equivalent gestures in sign languages), phonology (the abstract sound system of a particular language), and pragmatics (how social context contributes to meaning). Subdisciplines such as biolinguistics (the study of the biological variables and evolution of language) and psycholinguistics (the study of psychological factors in human language) bridge many of these divisions.

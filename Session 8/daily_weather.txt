@@ -1,0 +1,7 @@
+Monday: sunny
+Tuesday: sunny
+Wednesday: cloudy
+Thursday: rainy
+Friday: cloudy
+Saturday: sunny
+Sunday: sunny
